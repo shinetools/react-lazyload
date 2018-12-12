@@ -1,5 +1,5 @@
 {
-  "name": "react-lazyload",
+  "name": "@shinetools/react-lazyload",
   "version": "2.3.0",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
